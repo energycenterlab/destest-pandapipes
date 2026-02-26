@@ -1,0 +1,19 @@
+﻿KPI;Modelica_Buildings_AAU_Alessandro;Modelica_Buildings_AAU_JL;Modelica_Buildings_AAU_Martin;SIM_VICUS;TRNSYS_TUD_2021;TRNSYS_TUD_2022
+Mass flow rate supply i (kg/h);8865.07;8847.94;8847.936;8848.008;8870.4;8848
+Pressure drop supply between i and e (Pa);23443.1;23352.6;23011.56;25398.6;22500;22385.4
+Pressure drop return between a and i (Pa);23443.1;23352.6;23011.56;25398.6;24300;24224.4
+Pressure drop return between i and h (Pa);5912;5889;5806.06;7912.61;5700;5657.8
+Fluid temperature supply i (°C);70;70;69.99999;70;69.99;69.999
+Fluid temperature supply h (°C);69.94;69.94;69.93655;69.9165;69.94;69.938
+Fluid temperature supply g (°C);69.87;69.86;69.86337;69.8446;69.87;69.867
+Fluid temperature supply f (°C);69.76;69.75;69.75375;69.7371;69.77;69.763
+Fluid temperature supply e (°C);69.58;69.58;69.58123;69.5671;69.61;69.595
+Fluid temperature supply SimpleDistrict_1 (°C);69.44;69.44;69.44292;69.4305;69.48;69.461
+Fluid temperature return i (°C);39.46;39.47;39.46969;39.8533;39.84;39.486
+Fluid temperature return h (°C);39.42;39.43;39.501;39.8949;39.86;39.516
+Fluid temperature return g (°C);39.36;39.64;39.36416;39.8559;39.87;39.478
+Fluid temperature return f (°C);39.28;39.58;39.41805;39.8136;39.89;39.436
+Fluid temperature return e (°C);39.36;39.37;39.3746;39.7714;39.93;39.394
+Fluid temperature return SimpleDistrict_1 (°C);39.44;39.44;39.44292;39.8398;40;39.461
+Heat loss supply between i and h (W);316.06;326;325.9148;429.058;0.446;314.38
+Total heat load supplied by heat source (W);314334;308203;313651.1;309713;310700;313496
